@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vs9qtx6o084swdxh?svg=true)](https://ci.appveyor.com/project/arbprog/ra-hoc-time)
